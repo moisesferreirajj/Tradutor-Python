@@ -1,7 +1,8 @@
-# Tradutor Automático de Arquivos de Texto
+<center># Tradutor Automático de Arquivos de Texto<center>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><br>
     <br>
+</div>
 
 Este é um projeto Python para traduzir arquivos de texto, linha por linha, utilizando a biblioteca **Deep Translator**. O script identifica o idioma de cada linha e traduz automaticamente para o português, mantendo o formato original do arquivo. É ideal para processar arquivos de localização ou conteúdos multilíngues.
 
@@ -54,4 +55,3 @@ Mensagem3: Olá, tudo bem?
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/moisesferreirajj/Tradutor-Python) ou enviar um pull request.
-</div>
