@@ -23,11 +23,25 @@ O projeto utiliza as seguintes bibliotecas Python:
 ## Uso
 1. Insira o arquivo de texto que deseja traduzir no diretório do projeto.
 2. Atualize as variáveis `input_file` e `output_file` no script principal para corresponder ao arquivo de entrada e ao nome do arquivo traduzido.
-3. Execute o script:
-   ```bash
-   python tradutor.py
-   ```
-4. O arquivo traduzido será salvo automaticamente com o nome especificado em `output_file`.
+
+### Certifique que seu python está instalado com o comando abaixo:<br>
+``
+python --version
+``
+Após a certeza, basta seguir o passo-a-passo abaixo:<br>
+- Dentro da pasta "Requirements":<br>
+``
+python -m venv venv
+``
+- Após isso ainda na pasta "Requirements":<br>
+``
+pip install -r requirements.txt
+``
+- Verifique se todas bibliotecas foram instaladas:<br>
+``
+pip list
+``
+5. O arquivo traduzido será salvo automaticamente com o nome especificado em `output_file`.
 
 ### Exemplo de Entrada
 Arquivo: `language.txt`
