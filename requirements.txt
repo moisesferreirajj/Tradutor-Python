@@ -1,3 +1,4 @@
 deep-translator
 langdetect
 tqdm
+pysubs2
