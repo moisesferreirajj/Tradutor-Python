@@ -24,4 +24,4 @@ def traduzir_legenda(input_legenda : str):
         print("Ocorreu um erro: ", e)
 
 if __name__ == "__main__":
-    traduzir_legenda("/home/prime/Downloads/legenda.ass")
+    traduzir_legenda("CAMINHO DA LEGENDA")
